@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zaidkhan2001](https://github.com/zaidkhan2001)
 
-- 💬 Ask me about **React , Flutter App Development , Machine Learning and Web Scraping **
+- 💬 Ask me about **React , Flutter App Development , Machine Learning and Web Scraping**
 
 - 📫 How to reach me **zaidkhan.zk637@gmail.com**
 
