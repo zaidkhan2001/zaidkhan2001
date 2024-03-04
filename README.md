@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FictionGenie<br>🌱 I’m currently learning React Native Development<br>💬 Ask me about React , Flutter Development , Machine Learning<br>📫 How to reach me zaidkhan.zk637@gmail.com
+🔭 I’m currently working on FictionGenie<br>🌱 I’m currently learning React Native Development<br>💬 Ask me about React , Flutter Development , Machine Learning and Web Scraping<br>📫 How to reach me zaidkhan.zk637@gmail.com
 
 
 ## 🌐 Socials:
